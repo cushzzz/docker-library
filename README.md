@@ -3,17 +3,18 @@
 kubernetes 相关 images 同步
 # 2018.03.10
 
-*将kubeadm 安装时用到的9个组件及kubernetes-dashboard版本更新
-*gcr.io/google_containers/kubernetes-dashboard:v1.8.3
-*gcr.io/google_containers/kube-apiserver-amd64:v1.9.3
-*gcr.io/google_containers/kube-scheduler-amd64:v1.9.3
-*gcr.io/google_containers/kube-controller-manager-amd64:v1.9.3
-*gcr.io/google_containers/kube-proxy-amd64:v1.9.3
-*gcr.io/google_containers/etcd-amd64:3.1.11
-*gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.7
-*gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
-*gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
-*gcr.io/google_containers/pause-amd64:3.0
+* 将kubeadm 安装时用到的9个组件及kubernetes-dashboard版本更新
+
+	gcr.io/google_containers/kubernetes-dashboard:v1.8.3
+	gcr.io/google_containers/kube-apiserver-amd64:v1.9.3
+	gcr.io/google_containers/kube-scheduler-amd64:v1.9.3
+	gcr.io/google_containers/kube-controller-manager-amd64:v1.9.3
+	gcr.io/google_containers/kube-proxy-amd64:v1.9.3
+	gcr.io/google_containers/etcd-amd64:3.1.11
+	gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.7
+	gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
+	gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
+	gcr.io/google_containers/pause-amd64:3.0
 
 # 2018.1.2017
 
